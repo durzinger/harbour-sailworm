@@ -1,0 +1,12 @@
+################
+# Ignore Files #
+################
+
+*.o
+moc_*.*
+*.list
+Makefile
+harbour-sailworm
+harbour-sailworm.pro.user
+harbour-sailworm.desktop
+RPMS/
