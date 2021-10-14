@@ -18,3 +18,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 License included in the "Licence" file.
 
 mikkomanninen79@gmail.com
+
+![This is an image](https://github.com/mikkom79/harbour-sailworm/blob/master/qml/cover/coverimg.png)
